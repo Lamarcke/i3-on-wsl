@@ -69,3 +69,7 @@ Give it a name and add these flags:
 
 This solution is not perfect, however.  
 As with VMs, a lot of the Windows keyboard shortcuts (like Win+G for GameBar, Win+L for logout, Alt+F4 to close, Alt+Tab to change windows) will still work, so please be mindful of them. I'm still looking for ways to improve this workflow and i wil update this repo accordingly.
+
+
+## Final result
+![image](https://user-images.githubusercontent.com/23425058/206305326-e753431a-27a3-4075-a0f7-638e84ec2e80.png)
